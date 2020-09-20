@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "blinky",
+			"path": "blinky"
+		},
+		{
+			"name": "button",
+			"path": "button"
+		},
+		{
+			"name": "fade_led",
+			"path": "fade_led"
+		},
+		{
+			"name": "mesh",
+			"path": "mesh"
+		},
+		{
+			"name": "threads",
+			"path": "threads"
+		},
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": ["platformio.platformio-ide", "ms-vscode.cpptools"]
+	}
+}

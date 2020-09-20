@@ -1,9 +1,3 @@
-/*
- * Copyright (c) 2017 Linaro Limited
- *
- * SPDX-License-Identifier: Apache-2.0
- */
-
 #include <zephyr.h>
 #include <device.h>
 #include <drivers/gpio.h>
@@ -19,16 +13,11 @@
 
 #define LED0_NODE DT_ALIAS(led0)
 #define LED1_NODE DT_ALIAS(led1)
+#define LED2_NODE DT_ALIAS(led2)
+#define LED3_NODE DT_ALIAS(led3)
 
-/*
- * Devicetree helper macro which gets the 'flags' cell from a 'gpios'
- * property, or returns 0 if the property has no 'flags' cell.
- */
-
-#define FLAGS_OR_ZERO(node)						\
-	COND_CODE_1(DT_PHA_HAS_CELL(node, gpios, flags),		\
-		    (DT_GPIO_FLAGS(node, gpios)),			\
-		    (0))
+#define FLAGS_OR_ZERO(node)	\
+	COND_CODE_1(DT_PHA_HAS_CELL(node, gpios, flags), (DT_GPIO_FLAGS(node, gpios)), (0))
 
 struct printk_data_t {
 	void *fifo_reserved; /* 1st word reserved for use by fifo */
@@ -60,23 +49,20 @@ void blink(const struct led *led, uint32_t sleep_ms, uint32_t id)
 
 	ret = gpio_pin_configure(gpio_dev, led->gpio_pin, led->gpio_flags);
 	if (ret != 0) {
-		printk("Error %d: failed to configure pin %d '%s'\n",
-			ret, led->gpio_pin, led->gpio_pin_name);
+		printk("Error %d: failed to configure pin %d '%s'\n", ret, led->gpio_pin, led->gpio_pin_name);
 		return;
 	}
 
-	while (1) {
+	while(1){
 		gpio_pin_set(gpio_dev, led->gpio_pin, cnt % 2);
 
-		struct printk_data_t tx_data = { .led = id, .cnt = cnt };
-
 		size_t size = sizeof(struct printk_data_t);
-		char *mem_ptr = k_malloc(size);
-		__ASSERT_NO_MSG(mem_ptr != 0);
+		struct printk_data_t *tx_data = (struct printk_data_t*)k_malloc(size);
+		__ASSERT_NO_MSG(tx_data != 0);
+		tx_data->led = id;
+		tx_data->cnt = cnt;
 
-		memcpy(mem_ptr, &tx_data, size);
-
-		k_fifo_put(&printk_fifo, mem_ptr);
+		k_fifo_put(&printk_fifo, tx_data);
 
 		k_msleep(sleep_ms);
 		cnt++;
@@ -85,50 +71,63 @@ void blink(const struct led *led, uint32_t sleep_ms, uint32_t id)
 
 void blink0(void)
 {
-	const struct led led0 = {
-#if DT_NODE_HAS_STATUS(LED0_NODE, okay)
-		.gpio_dev_name = DT_GPIO_LABEL(LED0_NODE, gpios),
-		.gpio_pin_name = DT_LABEL(LED0_NODE),
-		.gpio_pin = DT_GPIO_PIN(LED0_NODE, gpios),
-		.gpio_flags = GPIO_OUTPUT | FLAGS_OR_ZERO(LED0_NODE),
-#else
-#error "Unsupported board: led0 devicetree alias is not defined"
-#endif
+	const struct led led = {
+		.gpio_dev_name 	= DT_GPIO_LABEL(LED0_NODE, gpios),
+		.gpio_pin_name 	= DT_LABEL(LED0_NODE),
+		.gpio_pin 		= DT_GPIO_PIN(LED0_NODE, gpios),
+		.gpio_flags 	= GPIO_OUTPUT | FLAGS_OR_ZERO(LED0_NODE),
 	};
 
-	blink(&led0, 100, 0);
+	blink(&led, 100, 0);
 }
 
 void blink1(void)
 {
-	const struct led led1 = {
-#if DT_NODE_HAS_STATUS(LED1_NODE, okay)
-		.gpio_dev_name = DT_GPIO_LABEL(LED1_NODE, gpios),
-		.gpio_pin_name = DT_LABEL(LED1_NODE),
-		.gpio_pin = DT_GPIO_PIN(LED1_NODE, gpios),
-		.gpio_flags = GPIO_OUTPUT | FLAGS_OR_ZERO(LED1_NODE),
-#else
-#error "Unsupported board: led1 devicetree alias is not defined"
-#endif
+	const struct led led = {
+		.gpio_dev_name 	= DT_GPIO_LABEL(LED1_NODE, gpios),
+		.gpio_pin_name 	= DT_LABEL(LED1_NODE),
+		.gpio_pin 		= DT_GPIO_PIN(LED1_NODE, gpios),
+		.gpio_flags 	= GPIO_OUTPUT | FLAGS_OR_ZERO(LED1_NODE),
 	};
 
-	blink(&led1, 1000, 1);
+	blink(&led, 500, 1);
+}
+
+void blink2(void)
+{
+	const struct led led = {
+		.gpio_dev_name 	= DT_GPIO_LABEL(LED2_NODE, gpios),
+		.gpio_pin_name 	= DT_LABEL(LED2_NODE),
+		.gpio_pin 		= DT_GPIO_PIN(LED2_NODE, gpios),
+		.gpio_flags 	= GPIO_OUTPUT | FLAGS_OR_ZERO(LED2_NODE),
+	};
+
+	blink(&led, 1000, 1);
+}
+
+void blink3(void)
+{
+	const struct led led = {
+		.gpio_dev_name 	= DT_GPIO_LABEL(LED3_NODE, gpios),
+		.gpio_pin_name 	= DT_LABEL(LED3_NODE),
+		.gpio_pin 		= DT_GPIO_PIN(LED3_NODE, gpios),
+		.gpio_flags 	= GPIO_OUTPUT | FLAGS_OR_ZERO(LED3_NODE),
+	};
+
+	blink(&led, 2000, 1);
 }
 
 void uart_out(void)
 {
 	while (1) {
-		struct printk_data_t *rx_data = k_fifo_get(&printk_fifo,
-							   K_FOREVER);
-		printk("Toggled led%d; counter=%d\n",
-		       rx_data->led, rx_data->cnt);
+		struct printk_data_t *rx_data = k_fifo_get(&printk_fifo, K_FOREVER);
+		printk("Toggled led%d; counter=%d\n", rx_data->led, rx_data->cnt);
 		k_free(rx_data);
 	}
 }
 
-K_THREAD_DEFINE(blink0_id, STACKSIZE, blink0, NULL, NULL, NULL,
-		PRIORITY, 0, 0);
-K_THREAD_DEFINE(blink1_id, STACKSIZE, blink1, NULL, NULL, NULL,
-		PRIORITY, 0, 0);
-K_THREAD_DEFINE(uart_out_id, STACKSIZE, uart_out, NULL, NULL, NULL,
-		PRIORITY, 0, 0);
+K_THREAD_DEFINE(blink0_id, STACKSIZE, blink0, NULL, NULL, NULL, PRIORITY, 0, 0);
+K_THREAD_DEFINE(blink1_id, STACKSIZE, blink1, NULL, NULL, NULL, PRIORITY, 0, 0);
+K_THREAD_DEFINE(blink2_id, STACKSIZE, blink2, NULL, NULL, NULL, PRIORITY, 0, 0);
+K_THREAD_DEFINE(blink3_id, STACKSIZE, blink3, NULL, NULL, NULL, PRIORITY, 0, 0);
+K_THREAD_DEFINE(uart_out_id, STACKSIZE, uart_out, NULL, NULL, NULL, PRIORITY, 0, 0);

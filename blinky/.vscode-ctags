@@ -1,0 +1,455 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/e0a976d7/
+ARCHITECTURE_ID	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+COMPILER_ID	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION_INTERNAL	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_MAJOR	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+CXX_STD	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+DEC	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+DRIVER_VALIDATION_GEN_H	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define DRIVER_VALIDATION_GEN_H$/;"	d
+FLAGS	src/main.c	/^        #define FLAGS	/;"	d	file:
+FLAGS	src/main.c	/^    #define FLAGS	/;"	d	file:
+HEX	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+ISR_WRAPPER	.pio/build/nrf52_dk/zephyr/isr_tables.c	/^#define ISR_WRAPPER /;"	d	file:
+KERNELVERSION	.pio/build/nrf52_dk/zephyr/include/generated/version.h	/^#define KERNELVERSION /;"	d
+KERNEL_PATCHLEVEL	.pio/build/nrf52_dk/zephyr/include/generated/version.h	/^#define KERNEL_PATCHLEVEL /;"	d
+KERNEL_VERSION_MAJOR	.pio/build/nrf52_dk/zephyr/include/generated/version.h	/^#define KERNEL_VERSION_MAJOR /;"	d
+KERNEL_VERSION_MINOR	.pio/build/nrf52_dk/zephyr/include/generated/version.h	/^#define KERNEL_VERSION_MINOR /;"	d
+KERNEL_VERSION_NUMBER	.pio/build/nrf52_dk/zephyr/include/generated/version.h	/^#define KERNEL_VERSION_NUMBER /;"	d
+KERNEL_VERSION_STRING	.pio/build/nrf52_dk/zephyr/include/generated/version.h	/^#define KERNEL_VERSION_STRING /;"	d
+K_SYSCALL_ADC_CHANNEL_SETUP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ADC_CHANNEL_SETUP /;"	d
+K_SYSCALL_ADC_READ	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ADC_READ /;"	d
+K_SYSCALL_ADC_READ_ASYNC	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ADC_READ_ASYNC /;"	d
+K_SYSCALL_ATOMIC_ADD	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_ADD /;"	d
+K_SYSCALL_ATOMIC_AND	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_AND /;"	d
+K_SYSCALL_ATOMIC_CAS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_CAS /;"	d
+K_SYSCALL_ATOMIC_NAND	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_NAND /;"	d
+K_SYSCALL_ATOMIC_OR	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_OR /;"	d
+K_SYSCALL_ATOMIC_PTR_CAS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_PTR_CAS /;"	d
+K_SYSCALL_ATOMIC_PTR_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_PTR_SET /;"	d
+K_SYSCALL_ATOMIC_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_SET /;"	d
+K_SYSCALL_ATOMIC_SUB	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_SUB /;"	d
+K_SYSCALL_ATOMIC_XOR	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ATOMIC_XOR /;"	d
+K_SYSCALL_BAD	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_BAD /;"	d
+K_SYSCALL_CAN_ATTACH_MSGQ	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_CAN_ATTACH_MSGQ /;"	d
+K_SYSCALL_CAN_CONFIGURE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_CAN_CONFIGURE /;"	d
+K_SYSCALL_CAN_DETACH	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_CAN_DETACH /;"	d
+K_SYSCALL_CAN_GET_STATE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_CAN_GET_STATE /;"	d
+K_SYSCALL_CAN_RECOVER	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_CAN_RECOVER /;"	d
+K_SYSCALL_CAN_SEND	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_CAN_SEND /;"	d
+K_SYSCALL_CLOCK_GETTIME	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_CLOCK_GETTIME /;"	d
+K_SYSCALL_COUNTER_CANCEL_CHANNEL_ALARM	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_CANCEL_CHANNEL_ALARM /;"	d
+K_SYSCALL_COUNTER_GET_FREQUENCY	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_GET_FREQUENCY /;"	d
+K_SYSCALL_COUNTER_GET_GUARD_PERIOD	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_GET_GUARD_PERIOD /;"	d
+K_SYSCALL_COUNTER_GET_MAX_RELATIVE_ALARM	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_GET_MAX_RELATIVE_ALARM /;"	d
+K_SYSCALL_COUNTER_GET_MAX_TOP_VALUE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_GET_MAX_TOP_VALUE /;"	d
+K_SYSCALL_COUNTER_GET_NUM_OF_CHANNELS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_GET_NUM_OF_CHANNELS /;"	d
+K_SYSCALL_COUNTER_GET_PENDING_INT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_GET_PENDING_INT /;"	d
+K_SYSCALL_COUNTER_GET_TOP_VALUE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_GET_TOP_VALUE /;"	d
+K_SYSCALL_COUNTER_GET_VALUE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_GET_VALUE /;"	d
+K_SYSCALL_COUNTER_IS_COUNTING_UP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_IS_COUNTING_UP /;"	d
+K_SYSCALL_COUNTER_SET_CHANNEL_ALARM	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_SET_CHANNEL_ALARM /;"	d
+K_SYSCALL_COUNTER_SET_GUARD_PERIOD	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_SET_GUARD_PERIOD /;"	d
+K_SYSCALL_COUNTER_SET_TOP_VALUE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_SET_TOP_VALUE /;"	d
+K_SYSCALL_COUNTER_START	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_START /;"	d
+K_SYSCALL_COUNTER_STOP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_STOP /;"	d
+K_SYSCALL_COUNTER_TICKS_TO_US	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_TICKS_TO_US /;"	d
+K_SYSCALL_COUNTER_US_TO_TICKS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_COUNTER_US_TO_TICKS /;"	d
+K_SYSCALL_DAC_CHANNEL_SETUP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_DAC_CHANNEL_SETUP /;"	d
+K_SYSCALL_DAC_WRITE_VALUE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_DAC_WRITE_VALUE /;"	d
+K_SYSCALL_DEVICE_GET_BINDING	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_DEVICE_GET_BINDING /;"	d
+K_SYSCALL_DMA_START	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_DMA_START /;"	d
+K_SYSCALL_DMA_STOP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_DMA_STOP /;"	d
+K_SYSCALL_EEPROM_GET_SIZE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_EEPROM_GET_SIZE /;"	d
+K_SYSCALL_EEPROM_READ	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_EEPROM_READ /;"	d
+K_SYSCALL_EEPROM_WRITE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_EEPROM_WRITE /;"	d
+K_SYSCALL_ENTROPY_GET_ENTROPY	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ENTROPY_GET_ENTROPY /;"	d
+K_SYSCALL_ESPI_CONFIG	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_CONFIG /;"	d
+K_SYSCALL_ESPI_FLASH_ERASE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_FLASH_ERASE /;"	d
+K_SYSCALL_ESPI_GET_CHANNEL_STATUS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_GET_CHANNEL_STATUS /;"	d
+K_SYSCALL_ESPI_READ_FLASH	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_READ_FLASH /;"	d
+K_SYSCALL_ESPI_READ_LPC_REQUEST	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_READ_LPC_REQUEST /;"	d
+K_SYSCALL_ESPI_READ_REQUEST	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_READ_REQUEST /;"	d
+K_SYSCALL_ESPI_RECEIVE_OOB	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_RECEIVE_OOB /;"	d
+K_SYSCALL_ESPI_RECEIVE_VWIRE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_RECEIVE_VWIRE /;"	d
+K_SYSCALL_ESPI_SEND_OOB	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_SEND_OOB /;"	d
+K_SYSCALL_ESPI_SEND_VWIRE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_SEND_VWIRE /;"	d
+K_SYSCALL_ESPI_WRITE_FLASH	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_WRITE_FLASH /;"	d
+K_SYSCALL_ESPI_WRITE_LPC_REQUEST	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_WRITE_LPC_REQUEST /;"	d
+K_SYSCALL_ESPI_WRITE_REQUEST	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ESPI_WRITE_REQUEST /;"	d
+K_SYSCALL_FLASH_ERASE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_FLASH_ERASE /;"	d
+K_SYSCALL_FLASH_GET_PAGE_COUNT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_FLASH_GET_PAGE_COUNT /;"	d
+K_SYSCALL_FLASH_GET_PAGE_INFO_BY_IDX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_FLASH_GET_PAGE_INFO_BY_IDX /;"	d
+K_SYSCALL_FLASH_GET_PAGE_INFO_BY_OFFS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_FLASH_GET_PAGE_INFO_BY_OFFS /;"	d
+K_SYSCALL_FLASH_GET_WRITE_BLOCK_SIZE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_FLASH_GET_WRITE_BLOCK_SIZE /;"	d
+K_SYSCALL_FLASH_READ	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_FLASH_READ /;"	d
+K_SYSCALL_FLASH_WRITE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_FLASH_WRITE /;"	d
+K_SYSCALL_FLASH_WRITE_PROTECTION_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_FLASH_WRITE_PROTECTION_SET /;"	d
+K_SYSCALL_GPIO_CONFIG	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_CONFIG /;"	d
+K_SYSCALL_GPIO_DISABLE_CALLBACK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_DISABLE_CALLBACK /;"	d
+K_SYSCALL_GPIO_ENABLE_CALLBACK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_ENABLE_CALLBACK /;"	d
+K_SYSCALL_GPIO_GET_PENDING_INT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_GET_PENDING_INT /;"	d
+K_SYSCALL_GPIO_PIN_INTERRUPT_CONFIGURE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_PIN_INTERRUPT_CONFIGURE /;"	d
+K_SYSCALL_GPIO_PORT_CLEAR_BITS_RAW	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_PORT_CLEAR_BITS_RAW /;"	d
+K_SYSCALL_GPIO_PORT_GET_RAW	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_PORT_GET_RAW /;"	d
+K_SYSCALL_GPIO_PORT_SET_BITS_RAW	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_PORT_SET_BITS_RAW /;"	d
+K_SYSCALL_GPIO_PORT_SET_MASKED_RAW	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_PORT_SET_MASKED_RAW /;"	d
+K_SYSCALL_GPIO_PORT_TOGGLE_BITS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_GPIO_PORT_TOGGLE_BITS /;"	d
+K_SYSCALL_HWINFO_GET_DEVICE_ID	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_HWINFO_GET_DEVICE_ID /;"	d
+K_SYSCALL_I2C_CONFIGURE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_I2C_CONFIGURE /;"	d
+K_SYSCALL_I2C_RECOVER_BUS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_I2C_RECOVER_BUS /;"	d
+K_SYSCALL_I2C_SLAVE_DRIVER_REGISTER	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_I2C_SLAVE_DRIVER_REGISTER /;"	d
+K_SYSCALL_I2C_SLAVE_DRIVER_UNREGISTER	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_I2C_SLAVE_DRIVER_UNREGISTER /;"	d
+K_SYSCALL_I2C_TRANSFER	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_I2C_TRANSFER /;"	d
+K_SYSCALL_I2S_BUF_READ	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_I2S_BUF_READ /;"	d
+K_SYSCALL_I2S_BUF_WRITE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_I2S_BUF_WRITE /;"	d
+K_SYSCALL_I2S_CONFIGURE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_I2S_CONFIGURE /;"	d
+K_SYSCALL_I2S_TRIGGER	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_I2S_TRIGGER /;"	d
+K_SYSCALL_IPM_MAX_DATA_SIZE_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_IPM_MAX_DATA_SIZE_GET /;"	d
+K_SYSCALL_IPM_MAX_ID_VAL_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_IPM_MAX_ID_VAL_GET /;"	d
+K_SYSCALL_IPM_SEND	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_IPM_SEND /;"	d
+K_SYSCALL_IPM_SET_ENABLED	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_IPM_SET_ENABLED /;"	d
+K_SYSCALL_KSCAN_CONFIG	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_KSCAN_CONFIG /;"	d
+K_SYSCALL_KSCAN_DISABLE_CALLBACK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_KSCAN_DISABLE_CALLBACK /;"	d
+K_SYSCALL_KSCAN_ENABLE_CALLBACK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_KSCAN_ENABLE_CALLBACK /;"	d
+K_SYSCALL_K_BUSY_WAIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_BUSY_WAIT /;"	d
+K_SYSCALL_K_CURRENT_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_CURRENT_GET /;"	d
+K_SYSCALL_K_FLOAT_DISABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_FLOAT_DISABLE /;"	d
+K_SYSCALL_K_FUTEX_WAIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_FUTEX_WAIT /;"	d
+K_SYSCALL_K_FUTEX_WAKE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_FUTEX_WAKE /;"	d
+K_SYSCALL_K_IS_PREEMPT_THREAD	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_IS_PREEMPT_THREAD /;"	d
+K_SYSCALL_K_MSGQ_ALLOC_INIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MSGQ_ALLOC_INIT /;"	d
+K_SYSCALL_K_MSGQ_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MSGQ_GET /;"	d
+K_SYSCALL_K_MSGQ_GET_ATTRS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MSGQ_GET_ATTRS /;"	d
+K_SYSCALL_K_MSGQ_NUM_FREE_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MSGQ_NUM_FREE_GET /;"	d
+K_SYSCALL_K_MSGQ_NUM_USED_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MSGQ_NUM_USED_GET /;"	d
+K_SYSCALL_K_MSGQ_PEEK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MSGQ_PEEK /;"	d
+K_SYSCALL_K_MSGQ_PURGE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MSGQ_PURGE /;"	d
+K_SYSCALL_K_MSGQ_PUT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MSGQ_PUT /;"	d
+K_SYSCALL_K_MUTEX_INIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MUTEX_INIT /;"	d
+K_SYSCALL_K_MUTEX_LOCK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MUTEX_LOCK /;"	d
+K_SYSCALL_K_MUTEX_UNLOCK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_MUTEX_UNLOCK /;"	d
+K_SYSCALL_K_OBJECT_ACCESS_GRANT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_OBJECT_ACCESS_GRANT /;"	d
+K_SYSCALL_K_OBJECT_ALLOC	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_OBJECT_ALLOC /;"	d
+K_SYSCALL_K_OBJECT_RELEASE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_OBJECT_RELEASE /;"	d
+K_SYSCALL_K_PIPE_ALLOC_INIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_PIPE_ALLOC_INIT /;"	d
+K_SYSCALL_K_PIPE_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_PIPE_GET /;"	d
+K_SYSCALL_K_PIPE_PUT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_PIPE_PUT /;"	d
+K_SYSCALL_K_PIPE_READ_AVAIL	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_PIPE_READ_AVAIL /;"	d
+K_SYSCALL_K_PIPE_WRITE_AVAIL	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_PIPE_WRITE_AVAIL /;"	d
+K_SYSCALL_K_POLL	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_POLL /;"	d
+K_SYSCALL_K_POLL_SIGNAL_CHECK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_POLL_SIGNAL_CHECK /;"	d
+K_SYSCALL_K_POLL_SIGNAL_INIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_POLL_SIGNAL_INIT /;"	d
+K_SYSCALL_K_POLL_SIGNAL_RAISE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_POLL_SIGNAL_RAISE /;"	d
+K_SYSCALL_K_POLL_SIGNAL_RESET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_POLL_SIGNAL_RESET /;"	d
+K_SYSCALL_K_QUEUE_ALLOC_APPEND	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_QUEUE_ALLOC_APPEND /;"	d
+K_SYSCALL_K_QUEUE_ALLOC_PREPEND	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_QUEUE_ALLOC_PREPEND /;"	d
+K_SYSCALL_K_QUEUE_CANCEL_WAIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_QUEUE_CANCEL_WAIT /;"	d
+K_SYSCALL_K_QUEUE_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_QUEUE_GET /;"	d
+K_SYSCALL_K_QUEUE_INIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_QUEUE_INIT /;"	d
+K_SYSCALL_K_QUEUE_IS_EMPTY	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_QUEUE_IS_EMPTY /;"	d
+K_SYSCALL_K_QUEUE_PEEK_HEAD	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_QUEUE_PEEK_HEAD /;"	d
+K_SYSCALL_K_QUEUE_PEEK_TAIL	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_QUEUE_PEEK_TAIL /;"	d
+K_SYSCALL_K_SEM_COUNT_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_SEM_COUNT_GET /;"	d
+K_SYSCALL_K_SEM_GIVE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_SEM_GIVE /;"	d
+K_SYSCALL_K_SEM_INIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_SEM_INIT /;"	d
+K_SYSCALL_K_SEM_RESET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_SEM_RESET /;"	d
+K_SYSCALL_K_SEM_TAKE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_SEM_TAKE /;"	d
+K_SYSCALL_K_SLEEP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_SLEEP /;"	d
+K_SYSCALL_K_STACK_ALLOC_INIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_STACK_ALLOC_INIT /;"	d
+K_SYSCALL_K_STACK_POP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_STACK_POP /;"	d
+K_SYSCALL_K_STACK_PUSH	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_STACK_PUSH /;"	d
+K_SYSCALL_K_STR_OUT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_STR_OUT /;"	d
+K_SYSCALL_K_THREAD_ABORT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_ABORT /;"	d
+K_SYSCALL_K_THREAD_CREATE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_CREATE /;"	d
+K_SYSCALL_K_THREAD_CUSTOM_DATA_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_CUSTOM_DATA_GET /;"	d
+K_SYSCALL_K_THREAD_CUSTOM_DATA_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_CUSTOM_DATA_SET /;"	d
+K_SYSCALL_K_THREAD_DEADLINE_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_DEADLINE_SET /;"	d
+K_SYSCALL_K_THREAD_JOIN	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_JOIN /;"	d
+K_SYSCALL_K_THREAD_NAME_COPY	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_NAME_COPY /;"	d
+K_SYSCALL_K_THREAD_NAME_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_NAME_SET /;"	d
+K_SYSCALL_K_THREAD_PRIORITY_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_PRIORITY_GET /;"	d
+K_SYSCALL_K_THREAD_PRIORITY_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_PRIORITY_SET /;"	d
+K_SYSCALL_K_THREAD_RESUME	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_RESUME /;"	d
+K_SYSCALL_K_THREAD_STACK_SPACE_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_STACK_SPACE_GET /;"	d
+K_SYSCALL_K_THREAD_START	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_START /;"	d
+K_SYSCALL_K_THREAD_SUSPEND	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_SUSPEND /;"	d
+K_SYSCALL_K_THREAD_TIMEOUT_EXPIRES_TICKS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_TIMEOUT_EXPIRES_TICKS /;"	d
+K_SYSCALL_K_THREAD_TIMEOUT_REMAINING_TICKS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_THREAD_TIMEOUT_REMAINING_TICKS /;"	d
+K_SYSCALL_K_TIMER_EXPIRES_TICKS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_TIMER_EXPIRES_TICKS /;"	d
+K_SYSCALL_K_TIMER_REMAINING_TICKS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_TIMER_REMAINING_TICKS /;"	d
+K_SYSCALL_K_TIMER_START	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_TIMER_START /;"	d
+K_SYSCALL_K_TIMER_STATUS_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_TIMER_STATUS_GET /;"	d
+K_SYSCALL_K_TIMER_STATUS_SYNC	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_TIMER_STATUS_SYNC /;"	d
+K_SYSCALL_K_TIMER_STOP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_TIMER_STOP /;"	d
+K_SYSCALL_K_TIMER_USER_DATA_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_TIMER_USER_DATA_GET /;"	d
+K_SYSCALL_K_TIMER_USER_DATA_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_TIMER_USER_DATA_SET /;"	d
+K_SYSCALL_K_UPTIME_TICKS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_UPTIME_TICKS /;"	d
+K_SYSCALL_K_USLEEP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_USLEEP /;"	d
+K_SYSCALL_K_WAKEUP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_WAKEUP /;"	d
+K_SYSCALL_K_YIELD	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_K_YIELD /;"	d
+K_SYSCALL_LED_BLINK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_LED_BLINK /;"	d
+K_SYSCALL_LED_OFF	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_LED_OFF /;"	d
+K_SYSCALL_LED_ON	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_LED_ON /;"	d
+K_SYSCALL_LED_SET_BRIGHTNESS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_LED_SET_BRIGHTNESS /;"	d
+K_SYSCALL_LIMIT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_LIMIT /;"	d
+K_SYSCALL_LOG_BUFFERED_CNT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_LOG_BUFFERED_CNT /;"	d
+K_SYSCALL_LOG_FILTER_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_LOG_FILTER_SET /;"	d
+K_SYSCALL_LOG_PANIC	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_LOG_PANIC /;"	d
+K_SYSCALL_LOG_PROCESS	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_LOG_PROCESS /;"	d
+K_SYSCALL_MAXIM_DS3231_GET_SYNCPOINT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_MAXIM_DS3231_GET_SYNCPOINT /;"	d
+K_SYSCALL_MAXIM_DS3231_REQ_SYNCPOINT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_MAXIM_DS3231_REQ_SYNCPOINT /;"	d
+K_SYSCALL_NET_ADDR_NTOP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_ADDR_NTOP /;"	d
+K_SYSCALL_NET_ADDR_PTON	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_ADDR_PTON /;"	d
+K_SYSCALL_NET_ETH_GET_PTP_CLOCK_BY_INDEX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_ETH_GET_PTP_CLOCK_BY_INDEX /;"	d
+K_SYSCALL_NET_IF_IPV4_ADDR_ADD_BY_INDEX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_IF_IPV4_ADDR_ADD_BY_INDEX /;"	d
+K_SYSCALL_NET_IF_IPV4_ADDR_LOOKUP_BY_INDEX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_IF_IPV4_ADDR_LOOKUP_BY_INDEX /;"	d
+K_SYSCALL_NET_IF_IPV4_ADDR_RM_BY_INDEX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_IF_IPV4_ADDR_RM_BY_INDEX /;"	d
+K_SYSCALL_NET_IF_IPV4_SET_GW_BY_INDEX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_IF_IPV4_SET_GW_BY_INDEX /;"	d
+K_SYSCALL_NET_IF_IPV4_SET_NETMASK_BY_INDEX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_IF_IPV4_SET_NETMASK_BY_INDEX /;"	d
+K_SYSCALL_NET_IF_IPV6_ADDR_ADD_BY_INDEX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_IF_IPV6_ADDR_ADD_BY_INDEX /;"	d
+K_SYSCALL_NET_IF_IPV6_ADDR_LOOKUP_BY_INDEX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_IF_IPV6_ADDR_LOOKUP_BY_INDEX /;"	d
+K_SYSCALL_NET_IF_IPV6_ADDR_RM_BY_INDEX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_NET_IF_IPV6_ADDR_RM_BY_INDEX /;"	d
+K_SYSCALL_PECI_CONFIG	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PECI_CONFIG /;"	d
+K_SYSCALL_PECI_DISABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PECI_DISABLE /;"	d
+K_SYSCALL_PECI_ENABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PECI_ENABLE /;"	d
+K_SYSCALL_PECI_TRANSFER	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PECI_TRANSFER /;"	d
+K_SYSCALL_PS2_CONFIG	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PS2_CONFIG /;"	d
+K_SYSCALL_PS2_DISABLE_CALLBACK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PS2_DISABLE_CALLBACK /;"	d
+K_SYSCALL_PS2_ENABLE_CALLBACK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PS2_ENABLE_CALLBACK /;"	d
+K_SYSCALL_PS2_READ	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PS2_READ /;"	d
+K_SYSCALL_PS2_WRITE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PS2_WRITE /;"	d
+K_SYSCALL_PTP_CLOCK_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PTP_CLOCK_GET /;"	d
+K_SYSCALL_PWM_GET_CYCLES_PER_SEC	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PWM_GET_CYCLES_PER_SEC /;"	d
+K_SYSCALL_PWM_PIN_SET_CYCLES	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_PWM_PIN_SET_CYCLES /;"	d
+K_SYSCALL_SENSOR_ATTR_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_SENSOR_ATTR_SET /;"	d
+K_SYSCALL_SENSOR_CHANNEL_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_SENSOR_CHANNEL_GET /;"	d
+K_SYSCALL_SENSOR_SAMPLE_FETCH	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_SENSOR_SAMPLE_FETCH /;"	d
+K_SYSCALL_SENSOR_SAMPLE_FETCH_CHAN	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_SENSOR_SAMPLE_FETCH_CHAN /;"	d
+K_SYSCALL_SPI_RELEASE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_SPI_RELEASE /;"	d
+K_SYSCALL_SPI_TRANSCEIVE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_SPI_TRANSCEIVE /;"	d
+K_SYSCALL_UART_CONFIGURE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_CONFIGURE /;"	d
+K_SYSCALL_UART_CONFIG_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_CONFIG_GET /;"	d
+K_SYSCALL_UART_DRV_CMD	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_DRV_CMD /;"	d
+K_SYSCALL_UART_ERR_CHECK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_ERR_CHECK /;"	d
+K_SYSCALL_UART_IRQ_ERR_DISABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_IRQ_ERR_DISABLE /;"	d
+K_SYSCALL_UART_IRQ_ERR_ENABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_IRQ_ERR_ENABLE /;"	d
+K_SYSCALL_UART_IRQ_IS_PENDING	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_IRQ_IS_PENDING /;"	d
+K_SYSCALL_UART_IRQ_RX_DISABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_IRQ_RX_DISABLE /;"	d
+K_SYSCALL_UART_IRQ_RX_ENABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_IRQ_RX_ENABLE /;"	d
+K_SYSCALL_UART_IRQ_TX_DISABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_IRQ_TX_DISABLE /;"	d
+K_SYSCALL_UART_IRQ_TX_ENABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_IRQ_TX_ENABLE /;"	d
+K_SYSCALL_UART_IRQ_UPDATE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_IRQ_UPDATE /;"	d
+K_SYSCALL_UART_LINE_CTRL_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_LINE_CTRL_GET /;"	d
+K_SYSCALL_UART_LINE_CTRL_SET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_LINE_CTRL_SET /;"	d
+K_SYSCALL_UART_MUX_FIND	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_MUX_FIND /;"	d
+K_SYSCALL_UART_POLL_IN	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_POLL_IN /;"	d
+K_SYSCALL_UART_POLL_OUT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_POLL_OUT /;"	d
+K_SYSCALL_UART_RX_DISABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_RX_DISABLE /;"	d
+K_SYSCALL_UART_RX_ENABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_RX_ENABLE /;"	d
+K_SYSCALL_UART_TX	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_TX /;"	d
+K_SYSCALL_UART_TX_ABORT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_UART_TX_ABORT /;"	d
+K_SYSCALL_WDT_DISABLE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_WDT_DISABLE /;"	d
+K_SYSCALL_WDT_FEED	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_WDT_FEED /;"	d
+K_SYSCALL_WDT_SETUP	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_WDT_SETUP /;"	d
+K_SYSCALL_ZEPHYR_FPUTC	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZEPHYR_FPUTC /;"	d
+K_SYSCALL_ZEPHYR_FWRITE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZEPHYR_FWRITE /;"	d
+K_SYSCALL_ZSOCK_ACCEPT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_ACCEPT /;"	d
+K_SYSCALL_ZSOCK_BIND	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_BIND /;"	d
+K_SYSCALL_ZSOCK_CLOSE	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_CLOSE /;"	d
+K_SYSCALL_ZSOCK_CONNECT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_CONNECT /;"	d
+K_SYSCALL_ZSOCK_FCNTL	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_FCNTL /;"	d
+K_SYSCALL_ZSOCK_GETHOSTNAME	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_GETHOSTNAME /;"	d
+K_SYSCALL_ZSOCK_GETSOCKNAME	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_GETSOCKNAME /;"	d
+K_SYSCALL_ZSOCK_GETSOCKOPT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_GETSOCKOPT /;"	d
+K_SYSCALL_ZSOCK_GET_CONTEXT_OBJECT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_GET_CONTEXT_OBJECT /;"	d
+K_SYSCALL_ZSOCK_INET_PTON	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_INET_PTON /;"	d
+K_SYSCALL_ZSOCK_LISTEN	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_LISTEN /;"	d
+K_SYSCALL_ZSOCK_POLL	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_POLL /;"	d
+K_SYSCALL_ZSOCK_RECVFROM	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_RECVFROM /;"	d
+K_SYSCALL_ZSOCK_SENDMSG	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_SENDMSG /;"	d
+K_SYSCALL_ZSOCK_SENDTO	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_SENDTO /;"	d
+K_SYSCALL_ZSOCK_SETSOCKOPT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_SETSOCKOPT /;"	d
+K_SYSCALL_ZSOCK_SHUTDOWN	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_SHUTDOWN /;"	d
+K_SYSCALL_ZSOCK_SOCKET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_SOCKET /;"	d
+K_SYSCALL_ZSOCK_SOCKETPAIR	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_ZSOCK_SOCKETPAIR /;"	d
+K_SYSCALL_Z_CLOCK_HW_CYCLES_PER_SEC_RUNTIME_GET	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_Z_CLOCK_HW_CYCLES_PER_SEC_RUNTIME_GET /;"	d
+K_SYSCALL_Z_ERRNO	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_Z_ERRNO /;"	d
+K_SYSCALL_Z_LOG_HEXDUMP_FROM_USER	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_Z_LOG_HEXDUMP_FROM_USER /;"	d
+K_SYSCALL_Z_LOG_STRING_FROM_USER	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_Z_LOG_STRING_FROM_USER /;"	d
+K_SYSCALL_Z_SYS_MUTEX_KERNEL_LOCK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_Z_SYS_MUTEX_KERNEL_LOCK /;"	d
+K_SYSCALL_Z_SYS_MUTEX_KERNEL_UNLOCK	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_Z_SYS_MUTEX_KERNEL_UNLOCK /;"	d
+K_SYSCALL_Z_ZEPHYR_READ_STDIN	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_Z_ZEPHYR_READ_STDIN /;"	d
+K_SYSCALL_Z_ZEPHYR_WRITE_STDOUT	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_Z_ZEPHYR_WRITE_STDOUT /;"	d
+K_SYSCALL_Z_ZSOCK_GETADDRINFO_INTERNAL	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define K_SYSCALL_Z_ZSOCK_GETADDRINFO_INTERNAL /;"	d
+LED0	src/main.c	/^    #define LED0	/;"	d	file:
+LED0_NODE	src/main.c	/^#define LED0_NODE /;"	d	file:
+PIN	src/main.c	/^    #define PIN	/;"	d	file:
+PLATFORM_ID	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+SIMULATE_ID	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SLEEP_TIME_MS	src/main.c	/^#define SLEEP_TIME_MS /;"	d	file:
+STRINGIFY	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+ZEPHYR_SYSCALL_LIST_H	.pio/build/nrf52_dk/zephyr/include/generated/syscall_list.h	/^#define ZEPHYR_SYSCALL_LIST_H$/;"	d
+ZEPHYR_VERSION	.pio/build/nrf52_dk/zephyr/include/generated/version.h	/^#define ZEPHYR_VERSION(/;"	d
+ZEPHYR_VERSION_CODE	.pio/build/nrf52_dk/zephyr/include/generated/version.h	/^#define ZEPHYR_VERSION_CODE /;"	d
+Z_INCLUDE_SYSCALLS_LOG_CORE_H	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/log_core.h	/^#define Z_INCLUDE_SYSCALLS_LOG_CORE_H$/;"	d
+Z_INCLUDE_SYSCALLS_MUTEX_H	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/mutex.h	/^#define Z_INCLUDE_SYSCALLS_MUTEX_H$/;"	d
+Z_SYSCALL_DRIVER_ADC	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_ADC(/;"	d
+Z_SYSCALL_DRIVER_CAN	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_CAN(/;"	d
+Z_SYSCALL_DRIVER_COUNTER	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_COUNTER(/;"	d
+Z_SYSCALL_DRIVER_CRYPTO	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_CRYPTO(/;"	d
+Z_SYSCALL_DRIVER_DAC	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_DAC(/;"	d
+Z_SYSCALL_DRIVER_DMA	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_DMA(/;"	d
+Z_SYSCALL_DRIVER_EEPROM	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_EEPROM(/;"	d
+Z_SYSCALL_DRIVER_ENTROPY	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_ENTROPY(/;"	d
+Z_SYSCALL_DRIVER_ESPI	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_ESPI(/;"	d
+Z_SYSCALL_DRIVER_FLASH	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_FLASH(/;"	d
+Z_SYSCALL_DRIVER_GEN	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_GEN(/;"	d
+Z_SYSCALL_DRIVER_GPIO	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_GPIO(/;"	d
+Z_SYSCALL_DRIVER_I2C	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_I2C(/;"	d
+Z_SYSCALL_DRIVER_I2S	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_I2S(/;"	d
+Z_SYSCALL_DRIVER_IPM	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_IPM(/;"	d
+Z_SYSCALL_DRIVER_KSCAN	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_KSCAN(/;"	d
+Z_SYSCALL_DRIVER_LED	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_LED(/;"	d
+Z_SYSCALL_DRIVER_PINMUX	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_PINMUX(/;"	d
+Z_SYSCALL_DRIVER_PS2	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_PS2(/;"	d
+Z_SYSCALL_DRIVER_PTP_CLOCK	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_PTP_CLOCK(/;"	d
+Z_SYSCALL_DRIVER_PWM	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_PWM(/;"	d
+Z_SYSCALL_DRIVER_SENSOR	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_SENSOR(/;"	d
+Z_SYSCALL_DRIVER_SPI	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_SPI(/;"	d
+Z_SYSCALL_DRIVER_UART	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_UART(/;"	d
+Z_SYSCALL_DRIVER_UART_MUX	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_UART_MUX(/;"	d
+Z_SYSCALL_DRIVER_WDT	.pio/build/nrf52_dk/zephyr/include/generated/driver-validation.h	/^#define Z_SYSCALL_DRIVER_WDT(/;"	d
+_KERNEL_VERSION_H_	.pio/build/nrf52_dk/zephyr/include/generated/version.h	/^#define _KERNEL_VERSION_H_$/;"	d
+__anon0d587d43010a	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/can_recover_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	u	function:z_mrsh_can_recover	file:
+__anon0d587d430208	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/can_recover_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	s	union:z_mrsh_can_recover::__anon0d587d43010a	file:
+__anon4ebf115b010a	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/mutex.h	/^		union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	u	function:z_sys_mutex_kernel_lock
+__anon4ebf115b0208	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/mutex.h	/^		union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	s	union:z_sys_mutex_kernel_lock::__anon4ebf115b010a
+__anond28613e2010a	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/counter_us_to_ticks_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; u64_t val; } parm0;$/;"	u	function:z_mrsh_counter_us_to_ticks	file:
+__anond28613e20208	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/counter_us_to_ticks_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; u64_t val; } parm0;$/;"	s	union:z_mrsh_counter_us_to_ticks::__anond28613e2010a	file:
+_irq_vector_table	.pio/build/nrf52_dk/zephyr/isr_tables.c	/^u32_t __irq_vector_table _irq_vector_table[39] = {$/;"	v	typeref:typename:u32_t __irq_vector_table[39]
+_k_syscall_table	.pio/build/nrf52_dk/zephyr/include/generated/syscall_dispatch.c	/^const _k_syscall_handler_t _k_syscall_table[K_SYSCALL_LIMIT] = {$/;"	v	typeref:typename:const _k_syscall_handler_t[]
+_sw_isr_table	.pio/build/nrf52_dk/zephyr/isr_tables.c	/^struct _isr_table_entry __sw_isr_table _sw_isr_table[39] = {$/;"	v	typeref:struct:_isr_table_entry __sw_isr_table[39]
+adc	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		adc: adc@40007000 {$/;"	l
+arduino_adc	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^	arduino_adc: analog-connector {$/;"	l
+arduino_header	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^	arduino_header: connector {$/;"	l
+boot_partition	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^					boot_partition: partition@0 {$/;"	l	label:flash_controller.flash0
+button0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		button0: button_0 {$/;"	l
+button1	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		button1: button_1 {$/;"	l
+button2	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		button2: button_2 {$/;"	l
+button3	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		button3: button_3 {$/;"	l
+clock	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		clock: clock@40000000 {$/;"	l
+flash0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^			flash0: flash@0 {$/;"	l	label:flash_controller
+flash_controller	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		flash_controller: flash-controller@4001e000 {$/;"	l
+gpio0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		gpio0: gpio@50000000 {$/;"	l
+gpiote	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		gpiote: gpiote@40006000 {$/;"	l
+hi	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/can_recover_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	m	struct:z_mrsh_can_recover::__anon0d587d43010a::__anon0d587d430208	typeref:typename:uintptr_t	file:
+hi	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/counter_us_to_ticks_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; u64_t val; } parm0;$/;"	m	struct:z_mrsh_counter_us_to_ticks::__anond28613e2010a::__anond28613e20208	typeref:typename:uintptr_t	file:
+hi	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/mutex.h	/^		union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	m	struct:z_sys_mutex_kernel_lock::__anon4ebf115b010a::__anon4ebf115b0208	typeref:typename:uintptr_t
+i2c0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		i2c0: arduino_i2c: i2c@40003000 {$/;"	l
+i2c1	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		i2c1: i2c@40004000 {$/;"	l
+info_arch	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_cray	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_language_dialect_default	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	typeref:typename:const char *
+info_platform	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate_version	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+led0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		led0: led_0 {$/;"	l
+led1	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		led1: led_1 {$/;"	l
+led2	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		led2: led_2 {$/;"	l
+led3	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		led3: led_3 {$/;"	l
+lo	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/can_recover_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	m	struct:z_mrsh_can_recover::__anon0d587d43010a::__anon0d587d430208	typeref:typename:uintptr_t	file:
+lo	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/counter_us_to_ticks_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; u64_t val; } parm0;$/;"	m	struct:z_mrsh_counter_us_to_ticks::__anond28613e2010a::__anond28613e20208	typeref:typename:uintptr_t	file:
+lo	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/mutex.h	/^		union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	m	struct:z_sys_mutex_kernel_lock::__anon4ebf115b010a::__anon4ebf115b0208	typeref:typename:uintptr_t
+main	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	src/main.c	/^void main(void)$/;"	f	typeref:typename:void
+nvic	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		nvic: interrupt-controller@e000e100 {$/;"	l
+pwm0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		pwm0: pwm@4001c000 {$/;"	l
+pwm1	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		pwm1: pwm@40021000 {$/;"	l
+pwm2	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		pwm2: pwm@40022000 {$/;"	l
+pwm_led0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		pwm_led0: pwm_led_0 {$/;"	l
+qdec	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		qdec: qdec@40012000 {$/;"	l
+qnxnto	.pio/build/nrf52_dk/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+rng	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		rng: random@4000d000 {$/;"	l
+rtc0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		rtc0: rtc@4000b000 {$/;"	l
+rtc1	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		rtc1: rtc@40011000 {$/;"	l
+rtc2	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		rtc2: rtc@40024000 {$/;"	l
+scratch_partition	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^					scratch_partition: partition@70000 {$/;"	l	label:flash_controller.flash0
+slot0_partition	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^					slot0_partition: partition@c000 {$/;"	l	label:flash_controller.flash0
+slot1_partition	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^					slot1_partition: partition@3e000 {$/;"	l	label:flash_controller.flash0
+spi0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		spi0: spi@40003000 {$/;"	l
+spi1	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		spi1: spi@40004000 {$/;"	l
+spi2	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		spi2: arduino_spi: spi@40023000 {$/;"	l
+split	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/can_recover_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	m	union:z_mrsh_can_recover::__anon0d587d43010a	typeref:struct:z_mrsh_can_recover::__anon0d587d43010a::__anon0d587d430208	file:
+split	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/counter_us_to_ticks_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; u64_t val; } parm0;$/;"	m	union:z_mrsh_counter_us_to_ticks::__anond28613e2010a	typeref:struct:z_mrsh_counter_us_to_ticks::__anond28613e2010a::__anond28613e20208	file:
+split	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/mutex.h	/^		union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	m	union:z_sys_mutex_kernel_lock::__anon4ebf115b010a	typeref:struct:z_sys_mutex_kernel_lock::__anon4ebf115b010a::__anon4ebf115b0208
+sram0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		sram0: memory@20000000 {$/;"	l
+storage_partition	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^					storage_partition: partition@7a000 {$/;"	l	label:flash_controller.flash0
+sw_pwm	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^	sw_pwm: sw-pwm {$/;"	l
+systick	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		systick: timer@e000e010 {$/;"	l
+temp	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		temp: temp@4000c000 {$/;"	l
+timer0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		timer0: timer@40008000 {$/;"	l
+timer1	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		timer1: timer@40009000 {$/;"	l
+timer2	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		timer2: timer@4000a000 {$/;"	l
+timer3	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		timer3: timer@4001a000 {$/;"	l
+timer4	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		timer4: timer@4001b000 {$/;"	l
+uart0	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		uart0: arduino_serial: uart@40002000 {$/;"	l
+val	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/can_recover_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	m	union:z_mrsh_can_recover::__anon0d587d43010a	typeref:typename:k_timeout_t	file:
+val	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/counter_us_to_ticks_mrsh.c	/^	union { struct { uintptr_t lo, hi; } split; u64_t val; } parm0;$/;"	m	union:z_mrsh_counter_us_to_ticks::__anond28613e2010a	typeref:typename:u64_t	file:
+val	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/mutex.h	/^		union { struct { uintptr_t lo, hi; } split; k_timeout_t val; } parm0;$/;"	m	union:z_sys_mutex_kernel_lock::__anon4ebf115b010a	typeref:typename:k_timeout_t
+wdt	.pio/build/nrf52_dk/zephyr/zephyr.dts	/^		wdt: wdt0: watchdog@40010000 {$/;"	l
+z_log_hexdump_from_user	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/log_core.h	/^static inline void z_log_hexdump_from_user(u32_t src_level_val, const char * metadata, const u8_/;"	f	typeref:typename:void
+z_log_string_from_user	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/log_core.h	/^static inline void z_log_string_from_user(u32_t src_level_val, const char * str)$/;"	f	typeref:typename:void
+z_mrsh_atomic_xor	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/atomic_xor_mrsh.c	/^uintptr_t z_mrsh_atomic_xor(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_can_recover	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/can_recover_mrsh.c	/^uintptr_t z_mrsh_can_recover(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_counter_get_pending_int	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/counter_get_pending_int_mrsh.c	/^uintptr_t z_mrsh_counter_get_pending_int(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_counter_set_guard_period	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/counter_set_guard_period_mrsh.c	/^uintptr_t z_mrsh_counter_set_guard_period(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_counter_us_to_ticks	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/counter_us_to_ticks_mrsh.c	/^uintptr_t z_mrsh_counter_us_to_ticks(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_espi_receive_oob	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/espi_receive_oob_mrsh.c	/^uintptr_t z_mrsh_espi_receive_oob(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_gpio_port_set_bits_raw	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/gpio_port_set_bits_raw_mrsh.c	/^uintptr_t z_mrsh_gpio_port_set_bits_raw(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_i2c_configure	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/i2c_configure_mrsh.c	/^uintptr_t z_mrsh_i2c_configure(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_i2s_buf_write	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/i2s_buf_write_mrsh.c	/^uintptr_t z_mrsh_i2s_buf_write(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_k_stack_push	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/k_stack_push_mrsh.c	/^uintptr_t z_mrsh_k_stack_push(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_k_thread_custom_data_get	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/k_thread_custom_data_get_mrsh.c	/^uintptr_t z_mrsh_k_thread_custom_data_get(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_k_thread_name_set	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/k_thread_name_set_mrsh.c	/^uintptr_t z_mrsh_k_thread_name_set(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_k_thread_start	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/k_thread_start_mrsh.c	/^uintptr_t z_mrsh_k_thread_start(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_k_timer_remaining_ticks	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/k_timer_remaining_ticks_mrsh.c	/^uintptr_t z_mrsh_k_timer_remaining_ticks(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_ps2_enable_callback	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/ps2_enable_callback_mrsh.c	/^uintptr_t z_mrsh_ps2_enable_callback(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_spi_release	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/spi_release_mrsh.c	/^uintptr_t z_mrsh_spi_release(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_spi_transceive	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/spi_transceive_mrsh.c	/^uintptr_t z_mrsh_spi_transceive(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_uart_line_ctrl_set	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/uart_line_ctrl_set_mrsh.c	/^uintptr_t z_mrsh_uart_line_ctrl_set(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_mrsh_uart_tx_abort	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/uart_tx_abort_mrsh.c	/^uintptr_t z_mrsh_uart_tx_abort(uintptr_t arg0, uintptr_t arg1, uintptr_t arg2,$/;"	f	typeref:typename:uintptr_t
+z_sys_mutex_kernel_lock	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/mutex.h	/^static inline int z_sys_mutex_kernel_lock(struct sys_mutex * mutex, k_timeout_t timeout)$/;"	f	typeref:typename:int
+z_sys_mutex_kernel_unlock	.pio/build/nrf52_dk/zephyr/include/generated/syscalls/mutex.h	/^static inline int z_sys_mutex_kernel_unlock(struct sys_mutex * mutex)$/;"	f	typeref:typename:int
